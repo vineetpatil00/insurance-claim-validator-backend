@@ -1,0 +1,8 @@
+{
+    "window.title": "Insurance Claim Validator API",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#40156A",
+        "titleBar.activeBackground": "#591E95",
+        "titleBar.activeForeground": "#FDFCFE"
+    }
+}
